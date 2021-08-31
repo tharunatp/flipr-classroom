@@ -1,1 +1,1 @@
-# flipr-classroom
+# flipr-classroom project
